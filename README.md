@@ -12,7 +12,9 @@ Raport został podzielony na trzy obszary analityczne:
 
 
 Cel projektu
+
 Celem analizy było zidentyfikowanie najcenniejszych grup klientów, zrozumienie ich zachowań zakupowych oraz ocena efektywności prowadzonych kampanii marketingowych. W projekcie wykorzystano segmentację RFM (Recency, Frequency, Monetary), która pozwala ocenić wartość klientów i wspierać podejmowanie decyzji marketingowych opartych na danych. Dodatkowo analiza miała na celu odpowiedź na pytania:
+
 Którzy klienci generują największe przychody?
 Jakie segmenty klientów mają największą wartość biznesową?
 Które kampanie marketingowe osiągają najlepsze wyniki?
