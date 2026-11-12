@@ -1,5 +1,6 @@
 **Analiza klientów i skuteczności kampanii marketingowych**
 
+
 **Opis projektu**
 
 Projekt przedstawia analizę klientów oraz skuteczności kampanii marketingowych z wykorzystaniem narzędzia Microsoft Power BI.
@@ -13,7 +14,8 @@ Raport został podzielony na trzy obszary analityczne:
 •	Marketing Campaign Analysis
 
 
-Cel projektu
+
+**Cel projektu**
 
 Celem analizy było zidentyfikowanie najcenniejszych grup klientów, zrozumienie ich zachowań zakupowych oraz ocena efektywności prowadzonych kampanii marketingowych. W projekcie wykorzystano segmentację RFM (Recency, Frequency, Monetary), która pozwala ocenić wartość klientów i wspierać podejmowanie decyzji marketingowych opartych na danych. Dodatkowo analiza miała na celu odpowiedź na pytania:
 
