@@ -230,6 +230,7 @@ Kluczowe obserwacje
 <img width="1320" height="743" alt="Customer Marketing Overview" src="https://github.com/user-attachments/assets/dfa3e8eb-7ae2-4d4c-b652-203d63d80e15" />
 
 
+
 RFM Customer Segmentation
 
 Strona prezentuje analizę segmentacji klientów i ich wartości biznesowej.
@@ -273,6 +274,9 @@ Kluczowe obserwacje
 
 •	Najwyższą średnią wartość klienta osiąga segment Champions.
 
+<img width="1320" height="739" alt="RFM Customer Segmentation" src="https://github.com/user-attachments/assets/a3993ba6-7815-476a-b498-5629ddf6287d" />
+
+
 
 Marketing Campaign Analysis
 
@@ -312,6 +316,9 @@ Kluczowe obserwacje
 •	Segment Champions reaguje na działania marketingowe najczęściej.
 
 •	Klienci odpowiadający na kampanie wydają średnio niemal dwukrotnie więcej niż klienci nieodpowiadający na kampanie. 
+
+
+<img width="1319" height="742" alt="Marketing Campaign Analysis" src="https://github.com/user-attachments/assets/a2d0dfc8-b3dd-45cc-8d61-377163faf7eb" />
 
 
 
