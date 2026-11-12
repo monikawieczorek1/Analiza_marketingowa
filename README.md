@@ -227,6 +227,7 @@ Kluczowe obserwacje
 
 •	Wyższe dochody mają pozytywny wpływ na akceptację kampanii marketingowych. 
 
+<img width="1320" height="743" alt="Customer Marketing Overview" src="https://github.com/user-attachments/assets/dfa3e8eb-7ae2-4d4c-b652-203d63d80e15" />
 
 
 RFM Customer Segmentation
