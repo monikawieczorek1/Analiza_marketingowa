@@ -1,6 +1,6 @@
-Analiza klientów i skuteczności kampanii marketingowych
+**Analiza klientów i skuteczności kampanii marketingowych**
 
-Opis projektu
+**Opis projektu**
 
 Projekt przedstawia analizę klientów oraz skuteczności kampanii marketingowych z wykorzystaniem narzędzia Microsoft Power BI.
 
