@@ -30,9 +30,11 @@ Którzy klienci najchętniej reagują na działania marketingowe?
 Jak dochód oraz wiek wpływają na zachowania zakupowe?
 
 
-Źródło danych
+
+**Źródło danych**
 
 Wykorzystano zbiór danych Marketing Analysis z Kaggle obejmujące 2240 klientów. Dane były zawarte w pliku CSV w jednej tabeli.
+
 
 Kolumny zawarte w danych:
 
@@ -91,9 +93,11 @@ Response- czy klient zaakceptował ostatnią kampanię marketingową.
 NumDealsPurchases- liczba zakupów dokonanych podczas promocji lub z wykorzystaniem rabatu.
 
 
-Przygotowanie danych
+
+**Przygotowanie danych**
 
 Przed rozpoczęciem analizy przeprowadzono proces czyszczenia i transformacji danych w SQL oraz Power Query.
+
 
 SQL:
 
@@ -114,6 +118,7 @@ Average Purchases Value- średnia wartość zamówienia
 Income Group- grupy według dochodu
 
 
+
 POWER QUERY:
 
 -Usunięcie kolumn: Year_Birth, Kidhome, Teenhome, z_costcontact, z_revenue.
@@ -123,6 +128,7 @@ POWER QUERY:
 -Wykonanie zaokrągleń.
 
 Część rekordów nie zawierała informacji o dochodzie klientów. Zamiast usuwać te rekordy lub przypisywać arbitralną wartość, brakujące wartości pozostawiono jako NULL, a klientów zaklasyfikowano do kategorii Unknown. Pozwoliło to zachować ich pozostałe dane do dalszej analizy.
+
 
 
 POWER BI:
@@ -157,7 +163,8 @@ At Risk- Klienci, którzy wcześniej byli aktywni, jednak od dłuższego czasu n
 Hibernating- Klienci nieaktywni, o niskiej częstotliwości zakupów i niskiej wartości wydatków.
 
 
-Wykorzystane technologie:
+
+**Wykorzystane technologie:**
 
 -SQL Server Managment Studio
 
@@ -172,11 +179,13 @@ Wykorzystane technologie:
 -Wizualizacjie interaktywne
 
 
-Dashboard
+
+**Dashboard**
 
 Customer & Marketing Overview
 
 Strona zapewnia ogólny przegląd klientów oraz wyników sprzedażowych.
+
 
 KPI
 
@@ -189,6 +198,7 @@ KPI
 •	Average Purchases per Customer
 
 •	Last Campaign Acceptance
+
 
 
 Zakres analizy
@@ -206,6 +216,7 @@ Zakres analizy
 •	Campaign Acceptance by Income
 
 
+
 Kluczowe obserwacje
 
 •	Klienci o najwyższych dochodach osiągają najwyższe średnie wydatki.
@@ -217,9 +228,11 @@ Kluczowe obserwacje
 •	Wyższe dochody mają pozytywny wpływ na akceptację kampanii marketingowych. 
 
 
+
 RFM Customer Segmentation
 
 Strona prezentuje analizę segmentacji klientów i ich wartości biznesowej.
+
 
 KPI:
 
@@ -230,6 +243,7 @@ KPI:
 •	Highest Spend Segment: At Risk
 
 •	 Average Recency: 49,11 days
+
 
 
 Zakres analizy
@@ -247,6 +261,7 @@ Zakres analizy
 •	RFM Segment Performance
 
 
+
 Kluczowe obserwacje
 
 •	Segment At Risk stanowi największą grupę klientów.
@@ -262,6 +277,7 @@ Marketing Campaign Analysis
 
 Strona poświęcona ocenie skuteczności kampanii marketingowych.
 
+
 KPI:
 
 •	Overall Campaign Acceptance Rate: 7%
@@ -271,6 +287,7 @@ KPI:
 •	Worst Performing Campaign: Campaign 2
 
 •	Best Responding Segment: Champions
+
 
 
 Zakres analizy
@@ -284,6 +301,7 @@ Zakres analizy
 •	Campaign Performance Heatmap
 
 
+
 Kluczowe obserwacje
 
 •	Last Campaign osiągnęła najwyższy wskaźnik akceptacji (14,91%).
@@ -295,7 +313,8 @@ Kluczowe obserwacje
 •	Klienci odpowiadający na kampanie wydają średnio niemal dwukrotnie więcej niż klienci nieodpowiadający na kampanie. 
 
 
-Najważniejsze wnioski
+
+**Najważniejsze wnioski**
 
 Klienci o wysokich dochodach generują najwyższą wartość sprzedaży.
 
@@ -310,7 +329,8 @@ Ostatnia kampania była najskuteczniejsza.
 Respondenci kampanii osiągają znacznie wyższe średnie wydatki niż pozostali klienci.
 
 
-Rekomendacje biznesowe
+
+**Rekomendacje biznesowe**
 
 Wdrożenie kampanii retencyjnych dla segmentu At Risk- segment ten posiada wysoką wartość zakupową i powinien być objęty działaniami zapobiegającymi odpływowi klientów.
 
